@@ -1,0 +1,27 @@
+{
+  "name": "node-docker",
+  "version": "1.0.0",
+  "description": "a node-docker demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/soft25/node-docker.git"
+  },
+  "author": "Sofiane KIRATI",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.2",
+    "dotenv": "^8.0.0",
+    "ejs": "^2.6.1",
+    "express": "^4.17.0",
+    "mongoose": "^5.5.11"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soft25/node-docker/issues"
+  },
+  "homepage": "https://github.com/soft25/node-docker#readme"
+}
